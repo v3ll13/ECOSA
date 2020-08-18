@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">955853435747-ukrubl71jftr83iicd3cotlgohgt00k9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://test-ecosa.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">955853435747</string>
+    <string name="google_api_key" translatable="false">AIzaSyBQUiU0yAw6dYtyOEF3Kg-NBU6NDr752Mc</string>
+    <string name="google_app_id" translatable="false">1:955853435747:android:7bda9cde65341ef2359956</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBQUiU0yAw6dYtyOEF3Kg-NBU6NDr752Mc</string>
+    <string name="google_storage_bucket" translatable="false">test-ecosa.appspot.com</string>
+    <string name="project_id" translatable="false">test-ecosa</string>
+</resources>
