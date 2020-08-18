@@ -8,9 +8,45 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:955853435747:android:7bda9cde65341ef2359956",
+        "mobilesdk_app_id": "1:955853435747:android:2b8f25ff93c8c81f359956",
         "android_client_info": {
           "package_name": "com.example.ecosa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955853435747-ukrubl71jftr83iicd3cotlgohgt00k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQUiU0yAw6dYtyOEF3Kg-NBU6NDr752Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955853435747-ukrubl71jftr83iicd3cotlgohgt00k9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955853435747-1g4nf0tvbra6buq6fkdtdioe0b5sae9g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gerve-endy.Onboard-Test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955853435747:android:7bda9cde65341ef2359956",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
         }
       },
       "oauth_client": [
